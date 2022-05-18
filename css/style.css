@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #fefefe;
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+}
+h1{
+  font-size: 34px;
+  font-weight: bolder;
+  margin: .5em 0;
+}
+span{
+  font-size: 16px;
+  font-weight: lighter;
+}
