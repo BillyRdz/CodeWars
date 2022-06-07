@@ -1,4 +1,4 @@
-const instuctions = `Create a function called shortcut to remove the lowercase vowels (a, e, i, o, u ) in a given string.
+const instuctions = `NO REGEX: Create a function called shortcut to remove the lowercase vowels (a, e, i, o, u ) in a given string.
 
 Examples
 "hello"     -->  "hll"
